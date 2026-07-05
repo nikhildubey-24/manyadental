@@ -175,7 +175,7 @@ export default function HomePage() {
             className="grid grid-cols-1 sm:grid-cols-3 gap-5 sm:gap-6 md:gap-8"
           >
             {[
-              { value: '10', suffix: '+', label: 'Years Experience', icon: Clock },
+              { value: '15', suffix: '+', label: 'Years Experience', icon: Clock },
               { value: '5', suffix: 'K+', label: 'Happy Patients', icon: Users },
               { value: '98', suffix: '%', label: 'Satisfaction', icon: Heart },
             ].map((stat, i) => {

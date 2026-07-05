@@ -155,7 +155,7 @@ export default function AboutPage() {
                 <motion.div variants={fadeSlide} className="grid grid-cols-2 gap-3 sm:gap-4">
                   {[
                     { icon: GraduationCap, label: 'Qualification', value: 'MDS (Periodontist)' },
-                    { icon: CalendarClock, label: 'Experience', value: '10+ Years in Practice' },
+                    { icon: CalendarClock, label: 'Experience', value: '15+ Years in Practice' },
                     { icon: Star, label: 'Patients Treated', value: '5000+ Happy Smiles' },
                     { icon: Award, label: 'Specialization', value: 'Gums, Pyorrhoea, Cosmetic Surgery & Oral Implants' },
                   ].map((item, i) => {
