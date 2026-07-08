@@ -34,7 +34,7 @@ export default function Footer() {
               <span className="text-xs sm:text-sm font-semibold">Manya Dental</span>
             </Link>
             <p className="text-xs sm:text-sm md:text-base text-muted-foreground leading-relaxed max-w-xs mb-3">
-              Advanced dental care with cutting-edge technology and compassionate service under Dr. Swati Raj.
+              Advanced dental care with cutting-edge technology and compassionate service under Dr. Swati Raj, Associate Professor at Triveni Dental College, Bilaspur.
             </p>
             <div className="space-y-1.5">
               <p className="flex items-center gap-1.5 text-[10px] sm:text-xs text-muted-foreground">

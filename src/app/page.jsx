@@ -120,7 +120,7 @@ export default function HomePage() {
                 transition={{ delay: 0.3 }}
                 className="mt-4 sm:mt-6 text-sm sm:text-base md:text-lg lg:text-xl text-muted-foreground leading-relaxed max-w-xl"
               >
-                Experience modern dentistry where cutting-edge technology meets compassionate care under Dr. Swati Raj. 
+                Experience modern dentistry where cutting-edge technology meets compassionate care under Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur). 
                 We make every visit comfortable and every smile beautiful.
               </motion.p>
               <motion.div

@@ -67,7 +67,7 @@ export default function AboutPage() {
               transition={{ delay: 0.3 }}
               className="text-sm sm:text-base md:text-lg text-muted-foreground leading-relaxed"
             >
-              At Manya Dental, Dr. Swati Raj blends clinical expertise with the latest technology 
+              At Manya Dental, Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur) blends clinical expertise with the latest technology 
               to deliver exceptional care in a warm, welcoming environment.
             </motion.p>
             <motion.p
@@ -125,12 +125,12 @@ export default function AboutPage() {
                 <div className="relative rounded-2xl overflow-hidden shadow-lg">
                   <img
                     src={doctorImg.src}
-                    alt="Dr. Swati Raj"
+                    alt="Dr. Swati Raj - Associate Professor at Triveni Dental College, Bilaspur"
                     className="w-full h-[350px] sm:h-[400px] md:h-[450px] object-cover"
                   />
                   <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 via-black/30 to-transparent p-4 sm:p-6">
                     <h3 className="text-white font-bold text-lg sm:text-xl">Dr. Swati Raj</h3>
-                    <p className="text-white/80 text-sm">MDS (Periodontist) | Oral Implant Specialist</p>
+                    <p className="text-white/80 text-sm">MDS (Periodontist) | Oral Implant Specialist | Associate Professor at Triveni Dental College, Bilaspur</p>
                   </div>
                 </div>
               </motion.div>
@@ -145,7 +145,7 @@ export default function AboutPage() {
                     <h4 className="font-semibold text-base sm:text-lg">Qualifications & Expertise</h4>
                   </div>
                   <p className="text-sm sm:text-base text-muted-foreground leading-relaxed">
-                    Dr. Swati Raj is an MDS (Periodontist) specializing in gums, pyorrhoea, 
+                    Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur) is an MDS (Periodontist) specializing in gums, pyorrhoea, 
                     cosmetic surgery, and oral implants. She is committed to providing comprehensive 
                     oral care with a gentle touch and personalized treatment approach tailored to 
                     each patient's unique needs.
@@ -184,7 +184,7 @@ export default function AboutPage() {
                     I believe in treating each person with the care and respect they deserve, 
                     delivering the highest quality dental treatment in a warm and welcoming environment.
                   </p>
-                  <p className="text-xs sm:text-sm font-medium mt-2 pl-7 sm:pl-8">— Dr. Swati Raj</p>
+                  <p className="text-xs sm:text-sm font-medium mt-2 pl-7 sm:pl-8">— Dr. Swati Raj, Associate Professor at Triveni Dental College, Bilaspur</p>
                 </motion.div>
 
                 <motion.div variants={fadeSlide} className="flex flex-wrap gap-3">

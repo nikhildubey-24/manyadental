@@ -404,7 +404,7 @@ function ServicesContent() {
               transition={{ delay: 0.3 }}
               className="text-sm sm:text-base md:text-lg text-muted-foreground mt-2 sm:mt-3 max-w-xl mx-auto"
             >
-              From routine preventive care to advanced surgical procedures, Dr. Swati Raj offers complete dental solutions under one roof.
+               From routine preventive care to advanced surgical procedures, Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur) offers complete dental solutions under one roof.
             </motion.p>
           </motion.div>
         </div>

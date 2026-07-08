@@ -10,16 +10,16 @@ export const metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     template: '%s | Manya Dental Bilaspur',
-    default: 'Manya Dental - Best Dentist in Bilaspur | Dr. Swati Raj',
+    default: 'Manya Dental - Best Dentist in Bilaspur | Dr. Swati Raj - Associate Professor at Triveni Dental College, Bilaspur',
   },
-  description: 'Advanced dental care in Bilaspur with cutting-edge technology under Dr. Swati Raj. Book your appointment today for root canal, implants, cosmetic dentistry & more.',
-  keywords: ['dentist in Bilaspur', 'dental clinic Bilaspur', 'Dr. Swati Raj', 'root canal Bilaspur', 'dental implants Bilaspur', 'cosmetic dentistry Bilaspur', 'teeth whitening Bilaspur', 'Manya Dental'],
+  description: 'Advanced dental care in Bilaspur with cutting-edge technology under Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur). Book your appointment today for root canal, implants, cosmetic dentistry & more.',
+  keywords: ['dentist in Bilaspur', 'dental clinic Bilaspur', 'Dr. Swati Raj', 'Associate Professor Triveni Dental College Bilaspur', 'root canal Bilaspur', 'dental implants Bilaspur', 'cosmetic dentistry Bilaspur', 'teeth whitening Bilaspur', 'Manya Dental'],
   icons: {
     icon: '/logo.png',
   },
   openGraph: {
-    title: 'Manya Dental - Best Dentist in Bilaspur | Dr. Swati Raj',
-    description: 'Advanced dental care with modern technology and compassionate service. Root canal, implants, cosmetic dentistry & more.',
+    title: 'Manya Dental - Best Dentist in Bilaspur | Dr. Swati Raj - Associate Professor at Triveni Dental College, Bilaspur',
+    description: 'Advanced dental care with modern technology and compassionate service under Dr. Swati Raj (Associate Professor at Triveni Dental College, Bilaspur). Root canal, implants, cosmetic dentistry & more.',
     url: baseUrl,
     siteName: 'Manya Dental',
     locale: 'en_IN',
@@ -45,7 +45,7 @@ const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'DentalClinic',
   name: 'Manya Dental',
-  description: 'Advanced dental care in Bilaspur with cutting-edge technology and compassionate service under Dr. Swati Raj.',
+  description: 'Advanced dental care in Bilaspur with cutting-edge technology and compassionate service under Dr. Swati Raj, Associate Professor at Triveni Dental College, Bilaspur.',
   url: baseUrl,
   logo: `${baseUrl}/logo.png`,
   telephone: '+919131053337',
@@ -70,7 +70,7 @@ const jsonLd = {
   founder: {
     '@type': 'Person',
     name: 'Dr. Swati Raj',
-    jobTitle: 'Dentist',
+    jobTitle: 'Associate Professor at Triveni Dental College, Bilaspur',
   },
 }
 
